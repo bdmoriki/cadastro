@@ -3,8 +3,7 @@ package main
 import (
 	"log"
 
-	"routes"
-
+	"github.com/bdmoriki/cadastro/cadastro/routes"
 	"github.com/gofiber/fiber/v2"
 )
 
